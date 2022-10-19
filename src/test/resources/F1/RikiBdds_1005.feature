@@ -22,3 +22,8 @@ Feature: bdds123
 		Given 77
 		When 11
 		Then 77
+		
+	Scenario: ApproveScenario1
+		Given number
+		When one
+		Then one
