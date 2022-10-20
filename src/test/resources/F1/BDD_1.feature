@@ -1,5 +1,6 @@
 Feature: My bdd1 
-
+	The bdd spec that add a scenario
+	
 	Scenario: bdd scenario 1
 		Given one given
 		When one whn
