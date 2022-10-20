@@ -14,7 +14,7 @@ Feature: My bdd2
 
 	Scenario: bdd scenario A3
 		Given number
-		When two
+		When two2
 		Then three
 		
 	Scenario: bdd scenario A4
