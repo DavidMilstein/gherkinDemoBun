@@ -1,19 +1,22 @@
 #Auto generated Octane revision tag
-@TID2003REV0.2.0
+@BSPID1003REV0.2.0
 
 Feature: bdds123
 
+@TSCID1001
 	Scenario: riki1
 		Given 11
 		When 22
 		Then 33
 		
+@TSCID1002
 	Scenario: ApproveScenario1
 		Given number
 		When one
 		Then one
 
-	Scenario: MadeInOctane
-		Given 1
-		When 2
-		Then 3
+@TSCID1003
+	Scenario: ApproveScenario1
+		Given number
+		When one
+		Then one
