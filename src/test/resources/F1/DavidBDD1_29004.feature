@@ -7,7 +7,7 @@ Feature:
 		When A2
 		Then A3
 
-	Scenario: Scenario7
+	Scenario: Scenario4
 		Given A1
 		When A2
 		Then A3
