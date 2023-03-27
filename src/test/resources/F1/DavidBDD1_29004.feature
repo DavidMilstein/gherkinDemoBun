@@ -7,6 +7,7 @@ Feature:
 		When A2
 		Then A3
 
+@TSCID1936107
 	Scenario: Scenario4
 		Given A1
 		When A2
