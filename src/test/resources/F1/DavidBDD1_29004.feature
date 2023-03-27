@@ -12,3 +12,8 @@ Feature:
 		Given B1
 		When B2
 		Then B3
+		
+	Scenario: Scenario3
+		Given C1
+		When C2
+		Then C3
