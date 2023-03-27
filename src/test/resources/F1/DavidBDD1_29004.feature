@@ -12,9 +12,3 @@ Feature:
 		Given B1
 		When B2
 		Then B4
-
-@TSCID1936107
-	Scenario: Scenario4
-		Given B1
-		When B2
-		Then B4
