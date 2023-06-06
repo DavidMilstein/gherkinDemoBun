@@ -6,8 +6,8 @@ Feature:
 @TSCID1001
 	Scenario: Scenario1
 		Given 1
-		When 2
-		Then 3
+		When 2 Victor
+		Then 3 The King!!! 
 
 @TSCID1002
 	Scenario: Scenario2
